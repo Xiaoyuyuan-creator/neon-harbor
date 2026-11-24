@@ -1,5 +1,9 @@
 # Neon Harbor
 
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/Xiaoyuyuan-creator/neon-harbor/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/Xiaoyuyuan-creator/neon-harbor/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+
 An original 2D top-down open-world crime game, written from scratch for the
 gta6-01 contest. You are **Jax Reed**, a driver-for-hire in the fictional
 city of **Port Meridian**. Your fixer, **Mara Voss**, pays in cash and never
@@ -98,3 +102,7 @@ and pickups is yours to keep; getting wasted costs you 10% of it.
 - `game/src/shots.js` — deterministic screenshot scenes.
 - `game/src/main.js` — boot, game loop, player driving, wanted decay.
 - `main.ts` — builds the submission dossier (`MAKEFUN_OUTPUT_DIR=out node main.ts`).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=cbqrbn11&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
